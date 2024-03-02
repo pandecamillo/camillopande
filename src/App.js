@@ -17,11 +17,11 @@ function App() {
     </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://wa.me/+243893196755"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Contactez moi
         </a>
       </header>
     </div>
