@@ -11,7 +11,7 @@ function App() {
         </h1>
         <div className='message'>
             <p>
-                  Salut, Je m'appelle camillo, ce site web sera utilisé pour que vous téléchargez mes cours de programmations
+                  Salut, Je m'appelle camillo, ce site web sera utilisé pour que vous téléchargez mes cours de programmation
             </p>
             <p style={{fontWeigth:'bold', fontSize:'1.3rem'}}>
                   Disponible au mois d'Avril
