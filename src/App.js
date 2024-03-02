@@ -4,26 +4,26 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <main className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Pande Camillo
-    </h1>
-        <p>
-          Ce site web a été créer pour publier mes cours de programmation et de vous permettre à les télécharger gratuitement
-    </p>
-        <p>
-          Ce site web est en cours de construction ... elle sera publié au mois d'avril
-    </p>
+          Code avec Camillo
+        </h1>
+        <div className='message'>
+            <p>
+                  Salut, Je m'appelle camillo, ce site web sera utilisé pour que vous téléchargez mes cours de programmations
+            </p>
+            <p style={{fontWeigth:'bold', fontSize:'1.3rem'}}>
+                  Disponible au mois d'Avril
+            </p>
+        </div>
         <a
           className="App-link"
           href="https://wa.me/+243893196755"
-          target="_blank"
-          rel="noopener noreferrer"
         >
           Contactez moi
         </a>
-      </header>
+      </main>
     </div>
   );
 }
