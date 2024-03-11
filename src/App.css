@@ -24,8 +24,32 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding:20px;
+  padding-bottom:50px;
 }
 
 .App-link {
   color: #61dafb;
+  font-size:larger;
+}
+
+
+.project{
+  width:80%;
+  border:2px white solid;
+  padding:10px;
+  background-color:#1a0d54;
+  margin-bottom: 60px;
+  border-radius:14px;
+}
+
+.project>h2{
+  font-size:1.2rem;
+}
+
+.project>button{
+  padding:5px;
+  font-size:1rem;
+  font-weight: bold;
+  border-radius:12px;
 }
