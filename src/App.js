@@ -1,5 +1,6 @@
 import logo from './logo.jpg';
 import './App.css';
+import projectutil from './project-utilisateur.jpg';
 
 function App() {
   return (
@@ -11,11 +12,19 @@ function App() {
         </h1>
         <div className='message'>
             <p>
-                  Salut, Je m'appelle camillo, ce site web sera utilisé pour que vous téléchargez mes cours de programmation
+                  Salut, Je m'appelle camillo, ce site web sera utilisé pour que vous téléchargez mes cours de programmations
             </p>
             <p style={{fontWeigth:'bold', fontSize:'1.3rem'}}>
                   Disponible au mois d'Avril
             </p>
+        </div>
+        <p style={{fontWeigth:'bold', fontSize:'1.7rem', borderBottom:'2px white solid'}}>
+                  Voici mes projects :
+        </p>
+        <div className='project'>
+          <img src={projectutil} style={{width:'100%',height:'180px', border:'2px white solid', borderRadius:'8px'}}  alt="project" />
+          <h2>Gestion des Utilisateurs</h2>
+          <button onClick={()=>window.location.href ="https://pandecamillo.github.io/utilisateurs/"}>Voir le project</button>
         </div>
         <a
           className="App-link"
