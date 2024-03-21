@@ -16,7 +16,7 @@ function App() {
                   Salut, Je m'appelle camillo, ce site web sera utilisé pour que vous téléchargez mes cours de programmations
             </p>
             <p style={{fontWeigth:'bold', fontSize:'1.3rem'}}>
-                  Disponible au mois d'Avril
+                  Les cours seront disponible l'année prochaine
             </p>
         </div>
         <p style={{fontWeigth:'bold', fontSize:'1.7rem', borderBottom:'2px white solid'}}>
