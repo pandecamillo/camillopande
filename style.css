@@ -1095,6 +1095,10 @@ home-sci{
     text-align: center;
 }
 
+.about-content .box p{
+    font-size: 1.8rem;
+}
+
 .home-content{
     display: flex;
     align-items: center;
