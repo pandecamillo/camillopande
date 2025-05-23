@@ -216,10 +216,10 @@ section {
 .btn-box {
     position: relative;
     display: flex;
+    width: 34rem;
     padding:1em 1.5em;
     align-items: center;
     justify-content: center;
-    
 }
 
 .btn-box2 {
