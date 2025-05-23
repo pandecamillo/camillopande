@@ -236,7 +236,7 @@ section {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 18rem;
+    width: 34.5rem;
     height: 100%;
     background: var(--text-color);
     border: 1px solid var(--main-color);
@@ -265,7 +265,7 @@ section {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 18rem;
+    width: 34.5rem;
     height: 70%;
     background: var(--text-color);
     border: 1px solid var(--main-color);
