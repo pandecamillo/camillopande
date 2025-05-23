@@ -1,4 +1,4 @@
-5* {
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -216,7 +216,6 @@ section {
 .btn-box {
     position: relative;
     display: flex;
-    width: 34rem;
     padding:1em 1.5em;
     align-items: center;
     justify-content: center;
