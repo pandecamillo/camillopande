@@ -1,4 +1,4 @@
-* {
+5* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -217,7 +217,7 @@ section {
     position: relative;
     display: flex;
     width: fit-content;
-    padding:0.5em 1em;
+    padding:1em 1.5em;
     align-items: center;
     justify-content: center;
     
